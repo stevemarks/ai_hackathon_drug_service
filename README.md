@@ -31,7 +31,7 @@ Contributions are welcome. Follow these steps:
 ## Team A Members
 - Asfi Fardous
 - Danny Edhouse
-- Dat Nguyen ?
+- Dat Nguyen
 - Emrah Bulut
 - Ian Garrison
 - Jason Tilbury ?
