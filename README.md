@@ -4,7 +4,7 @@
 The project developed by Team A for the Hackathon on January 17, 2024, is centered around creating an intuitive and user-friendly application that specializes in summarizing veterinary drug information from Wikipedia. This application is uniquely designed to cater to users of various age groups and provides multilingual support, making it highly accessible. The primary aim of the application is to distill and simplify complex information into concise, easily understandable summaries, thus making it a valuable tool for those seeking quick and clear insights into veterinary drugs.
 
 ## Features
-- **Search Functionality:** Enables users to search for veterinary drugs on Wikipedia.
+- **Search Functionality:** Allows users to search for and summarise veterinary drugs listed on Wikipedia.
 - **Age Selection:** Adjusts content complexity according to the selected age group (Adults, Teens, Children).
 - **Multilingual Support:** Offers translations of drug information into various languages.
 - **User-Friendly Interface:** Designed for simplicity and ease of navigation.
@@ -31,13 +31,10 @@ Contributions are welcome. Follow these steps:
 ## Team A Members
 - Asfi Fardous
 - Danny Edhouse
-- Dat Nguyen ?
+- Dat Nguyen
 - Emrah Bulut
 - Ian Garrison
-- Jason Tilbury ?
-- Kylie Upton ?
 - Mahesh Manjunath
 - Ricky You
 - Steve Marks
-- Tommy Carmichael ?
 - Will Hargrave
