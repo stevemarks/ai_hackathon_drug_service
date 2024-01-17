@@ -4,6 +4,11 @@ public class Drugs {
     private String name;
     private String description;
 
+    public Drugs(String name, String description) {
+        this.name = name;
+        this.description = description;
+    }
+
     public String getName() {
         return name;
     }

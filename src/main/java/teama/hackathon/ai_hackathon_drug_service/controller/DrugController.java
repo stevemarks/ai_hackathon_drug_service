@@ -14,6 +14,9 @@ public class DrugController {
     @GetMapping("/v1/vet_drugs")
     public List<Drugs> getDrugs(@RequestParam("age") Integer age, @RequestParam("drug") String drug) {
         log.info("age={} drug={}", age, drug);
-        return List.of();
+
+        return List.of(
+            new Drugs("acepromazine", "Veterinary drugs are medications used to treat, diagnose, and prevent diseases and conditions in animals.\\n\\n• Veterinary drugs are divided into several categories, including antibiotics, anti-inflammatory drugs, anesthetics, antifungals, antiparasitics, and vaccines.\\n\\n• Veterinary drugs must be approved by the FDA before they can be used in animals.\\n\\n• Veterinary drugs are available in various forms, including tablets, capsules, liquids, and injections.\\n\\n• Common veterinary drugs include amoxicillin, enrofloxacin, meloxicam, ketoprofen, and ivermectin.")
+        );
     }
 }
