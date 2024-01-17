@@ -29,15 +29,15 @@ Contributions are welcome. Follow these steps:
 - Open a pull request.
 
 ## Team A Members
-Asfi Fardous
-Danny Edhouse
-Dat Nguyen ?
-Emrah Bulut
-Ian Garrison
-Jason Tilbury ?
-Kylie Upton ?
-Mahesh Manjunath
-Ricky You
-Steve Marks
-Tommy Carmichael ?
-Will Hargrave
+- Asfi Fardous
+- Danny Edhouse
+- Dat Nguyen ?
+- Emrah Bulut
+- Ian Garrison
+- Jason Tilbury ?
+- Kylie Upton ?
+- Mahesh Manjunath
+- Ricky You
+- Steve Marks
+- Tommy Carmichael ?
+- Will Hargrave
