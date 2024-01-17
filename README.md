@@ -1,7 +1,7 @@
 # Veterinary Drug Search Application
 
 ## Overview
-This project, developed by Team A for the Hackathon on January 17, 2024, aims to create a user-friendly application for searching veterinary drug information on Wikipedia. The application caters to different age groups and provides multilingual support.
+The project developed by Team A for the Hackathon on January 17, 2024, is centered around creating an intuitive and user-friendly application that specializes in summarizing veterinary drug information from Wikipedia. This application is uniquely designed to cater to users of various age groups and provides multilingual support, making it highly accessible. The primary aim of the application is to distill and simplify complex information into concise, easily understandable summaries, thus making it a valuable tool for those seeking quick and clear insights into veterinary drugs.
 
 ## Features
 - **Search Functionality:** Allows users to search for veterinary drugs listed on Wikipedia.
