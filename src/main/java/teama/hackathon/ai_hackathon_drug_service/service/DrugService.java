@@ -12,6 +12,6 @@ public class DrugService {
 
     public void summaryDrug(int age, String drugName) {
         String url = url_prefix + drugName;
-        var E2RDrugRequest = new E2RDrugRequest(age, drugName);
+        var E2RDrugRequest = new E2RDrugRequest(age, url);
     }
 }

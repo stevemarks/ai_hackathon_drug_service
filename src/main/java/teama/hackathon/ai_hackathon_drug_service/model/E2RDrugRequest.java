@@ -10,9 +10,8 @@ public class E2RDrugRequest {
     private final int bestOf = 1;
     private final String stop = null;
 
-    public E2RDrugRequest(int age, String drugName) {
-        prompt = String.format("I am %d years old. Don't use any terms. " +
-            "Can you summarise the Wikipedia article for %s with the vocabulary I can understand " +
-            "and in a maximum of 100 words.", age, drugName);
+    public E2RDrugRequest(int age, String url) {
+        prompt = String.format("Summary of %s " +
+            "with language appropriate for an %d year old in 200 words or less", url, age);
     }
 }
