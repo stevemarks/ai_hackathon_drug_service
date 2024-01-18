@@ -25,7 +25,7 @@ public class DrugService {
 
     private String url_prefix = "https://en.wikipedia.org/wiki/";
     private String ai_endpoint =
-        "https://in-bjss-openai-us.openai.azure.com/openai/deployments/davinci/completions?api-version=2023-09-15-preview&api-key=e3de288f417747cdb23c9c39bc440a13";
+        "https://in-bjss-openai-us.openai.azure.com/openai/deployments/davinci/completions?api-version=2023-09-15-preview";
 
     public List<Drugs> summaryDrug(Integer age, String drugName) {
         String url = url_prefix + drugName;
